@@ -50,9 +50,9 @@ ninja.data = [{
           description: "Competed agasist 7 other for a 2000 dollar scholoarship",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2-fintech",
-          title: 'project 2 Fintech',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-fintech-competition",
+          title: 'Fintech Competition',
+          description: "Gave a pitch at the KSU 2025 Seminar &quot;The Future of Digital Payments&quot; where I won and was awarded the 2000$ scholarship",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
