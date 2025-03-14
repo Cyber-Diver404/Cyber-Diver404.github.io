@@ -2,7 +2,7 @@
 layout: page
 title: FinTech Competition
 description: Competed agasist 7 other for a 2000 dollar scholoarship 
-img: assets/img/12.jpg
+img: assets/img/FintechWinner.jpg
 importance: 1
 category: school
 related_publications: true
