@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Projects and Activities I have worked on",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -50,8 +50,8 @@ ninja.data = [{
           description: "Competed agasist 7 other for a 2000 dollar scholoarship",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-project-2-fintech",
+          title: 'project 2 Fintech',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
