@@ -196,7 +196,7 @@ exclude:
   - _news/announcement_*.md # I removed these for my needs
   - _pages/blog.md
   - _posts/
-  - _projects/?_project.md
+  #- _projects/?_project.md
   - _pages/publications.md
   - _pages/teaching.md
   - _pages/profiles.md #Prime target to convert into model painting page
