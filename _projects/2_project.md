@@ -1,17 +1,20 @@
 ---
 layout: page
-title: project 2 Fintech
-description: a project with a background image and giscus comments
+title: Fintech Competition
+description: Gave a pitch at the KSU 2025 Seminar "The Future of Digital Payments" where I won and was awarded the 2000$ scholarship
 img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Kennesaw State University holds a seminar every year called "The Future of Digital Payments", where KSU students and industry leaders come and listen to panels and discussion about upcoming technology and how it will impact the current path the fintech industry is taking.
+This year, in partnership with the Georgia Fintech Acadamy, they held a competion for KSU students to give a pitch for a potential fintch application or tool.
+I was one of the two chosen students to give my pitch to the entire seminar, where their would be a group of judges that would determine the winner.
 
+    testing
+    123 123
+    
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
@@ -23,7 +26,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/FintechCompetitor.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -33,7 +36,7 @@ To give your project a background in the portfolio page, just add the img tag to
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Here are some photoes taken during the seminar. On the left you have my competitor. In the middle is the two of us posing, and on the right is me giving my presentation. 
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
