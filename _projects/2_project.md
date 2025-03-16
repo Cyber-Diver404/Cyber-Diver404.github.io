@@ -5,7 +5,6 @@ description: Gave a pitch at the KSU 2025 Seminar "The Future of Digital Payment
 img: assets/img/FintechWinner.jpg
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 Kennesaw State University holds a seminar every year called "The Future of Digital Payments", where KSU students and industry leaders come and listen to panels and discussion about upcoming technology and how it will impact the current path the fintech industry is taking.
