@@ -4,7 +4,7 @@ title: Fintech Competition
 description: Gave a pitch at the KSU 2025 Seminar "The Future of Digital Payments" where I won and was awarded the 2000$ scholarship
 img: assets/img/FintechWinner.jpg
 importance: 2
-category: Work
+category: work
 ---
 
 Kennesaw State University holds a seminar every year called "The Future of Digital Payments," where KSU students and industry leaders come to listen to panels and discussions about upcoming technologies and how they will impact the current trajectory of the fintech industry. This year, in partnership with the Georgia Fintech Academy, they held a competition for KSU students to pitch a potential fintech application or tool. I was one of the two chosen students to present my pitch to the entire seminar, where there would be a group of judges to determine the winner.

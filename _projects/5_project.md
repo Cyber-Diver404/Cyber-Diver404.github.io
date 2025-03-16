@@ -4,7 +4,7 @@ title: Ubuntu Home Server
 description: Coverting a old 2012 mac mini into a home media server
 img: assets/img/JellyfinLogo.png
 importance: 3
-category: Fun
+category: fun
 ---
 
 As I was trying to better learn Linux, I took it upon myself to set up a GUI-less Ubuntu server on my old family computer, a 2012 Mac Mini. It was a rollercoaster of learning and troubleshooting to get everything working as I wanted.
