@@ -18,15 +18,9 @@ I was one of the two chosen students to give my pitch to the entire seminar, whe
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/FintechCompetitor.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
-    Here are some photoes taken during the seminar. On the left you have my competitor. In the middle is the two of us posing, and on the right is me giving my presentation. 
+    Here was my competitor giving his presentation.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -40,3 +34,5 @@ I was one of the two chosen students to give my pitch to the entire seminar, whe
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+
+{% endraw %}
