@@ -131,15 +131,5 @@
       "icon": "fa-solid fa-laptop",
       "reference": "N/A"
     }
-  ],
-  "projects": [
-    {
-      "name": "N/A",
-      "summary": "N/A",
-      "highlights": ["N/A", "N/A"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
 }

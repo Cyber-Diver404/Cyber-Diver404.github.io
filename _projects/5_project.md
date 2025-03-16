@@ -32,7 +32,7 @@ Moral of the story, forums are your friends, and the people who give advice ther
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Left is a example of a page on Jellyfin, while the right is the ugly old mac mini plugged into the router.
 </div>
 
 
