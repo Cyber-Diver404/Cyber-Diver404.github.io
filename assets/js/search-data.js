@@ -46,28 +46,13 @@ ninja.data = [{
         
       },
     },{id: "projects-fintech-competition",
-          title: 'FinTech Competition',
-          description: "Competed agasist 7 other for a 2000 dollar scholoarship",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-fintech-competition",
           title: 'Fintech Competition',
           description: "Gave a pitch at the KSU 2025 Seminar &quot;The Future of Digital Payments&quot; where I won and was awarded the 2000$ scholarship",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-ubuntu-home-server",
+          title: 'Ubuntu Home Server',
+          description: "Coverting a old 2012 mac mini into a home media server",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{
