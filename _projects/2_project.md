@@ -38,6 +38,6 @@ There’s nothing quite like the feeling of walking onto the stage, smiling, sha
 </div>
 
  <iframe width="840" height="630"
-src="https://youtu.be/5hDiluGqkqE>
+src="https://youtu.be/5hDiluGqkqE">
 </iframe> 
 
