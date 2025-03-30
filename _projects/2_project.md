@@ -37,5 +37,7 @@ There’s nothing quite like the feeling of walking onto the stage, smiling, sha
     Posing with the absurdly sized check.
 </div>
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/5hDiluGqkqE?si=yzK8DRE1fUApsTNa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ <iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/5hDiluGqkqE?si=yzK8DRE1fUApsTNa">
+ </iframe>
 
