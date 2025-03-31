@@ -28,6 +28,8 @@ His presentation was on a crypto-based application that would reward users with 
 
 There’s nothing quite like the feeling of walking onto the stage, smiling, shaking hands, and holding a massive check.
 
+At the very bottom is a embedded Youtube link to a video recording of my presentation, if you want to give it a watch.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/FintechWinner.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
