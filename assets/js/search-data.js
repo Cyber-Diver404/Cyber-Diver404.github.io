@@ -49,12 +49,12 @@ ninja.data = [{
           title: 'Fintech Competition',
           description: "Gave a pitch at the KSU 2025 Seminar &quot;The Future of Digital Payments&quot; where I won and was awarded the 2000$ scholarship",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/FintechCompetition/";
             },},{id: "projects-ubuntu-home-server",
           title: 'Ubuntu Home Server',
           description: "Coverting a old 2012 mac mini into a home media server",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/UbuntuMedia/";
             },},{
         id: 'social-email',
         title: 'email',
