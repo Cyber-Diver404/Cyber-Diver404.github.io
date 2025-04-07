@@ -43,3 +43,4 @@ At the very bottom is a embedded Youtube link to a video recording of my present
   src="https://www.youtube.com/embed/5hDiluGqkqE?si=yzK8DRE1fUApsTNa">
  </iframe>
 
+There should be an embedded Youtube video above of my presentation, but it can be blocked by some adblockers, so if you want watch it, here is the link: https://youtu.be/5hDiluGqkqE?si=ohtdz8rFVQDzK6_0
