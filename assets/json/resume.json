@@ -71,10 +71,10 @@
       "icon": "fa-solid fa-location-dot"
     },
     { 
-      "name": "N/A",
-      "date": "N/A",
-      "issuer": "N/A",
-      "url": "https://example.com",
+      "name": "CompTIA Security+",
+      "date": "2025-04",
+      "issuer": "CompTIA",
+      "url": "http://verify.CompTIA.org (use Q3S6MXPSZNVE1K3Y as code)" ,
       "icon": "fa-solid fa-tag"
     }
   ],
