@@ -28,7 +28,9 @@ His presentation was on a crypto-based application that would reward users with 
 
 There’s nothing quite like the feeling of walking onto the stage, smiling, shaking hands, and holding a massive check.
 
-At the very bottom is a embedded Youtube link to a video recording of my presentation, if you want to give it a watch.
+If you want to learn a bit more, There is an short article writen that talks a bit about both my and my fellow competitor's thoughts and ideas. 
+
+https://www.kennesaw.edu/coles/news/stories/2025-04-04-innovative-minds-shine-at-ksu-digital-payments-pitch-competition.php
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -43,4 +45,4 @@ At the very bottom is a embedded Youtube link to a video recording of my present
   src="https://www.youtube.com/embed/5hDiluGqkqE?si=yzK8DRE1fUApsTNa">
  </iframe>
 
-There should be an embedded Youtube video above of my presentation, but it can be blocked by some adblockers, so if you want watch it, here is the link: https://youtu.be/5hDiluGqkqE?si=ohtdz8rFVQDzK6_0
+There should be an embedded Youtube video of my presentation, but it can be blocked by some adblockers, so if you want watch it, here is the link: https://youtu.be/5hDiluGqkqE?si=ohtdz8rFVQDzK6_0
