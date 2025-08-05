@@ -28,11 +28,11 @@ However, currently I only had around 250GB from the SSD that I had bought, and i
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/placeholder.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Homarr.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Here was my competitor giving his presentation.
+    Screenshot of my Homarr dashboard
 </div>
 
 My local Micro center was nice enough to already have a sale on some nice 4TB of Server/RAID grade drives that was just what I was looking for. I ended up buying three and going with a RAID 5 formation, so I would get around 8TB of storage with one redunded drive. Futhermore, this would boost my read speed due data being spread among multiple drives. This did come at the cost of some write speed, and if I ever need to replace a drive it would take about 10 hours for the RAID to be reformated.
@@ -45,7 +45,7 @@ Again I won't go into too much detail about the process, as it was simple follow
     </div>
 </div>
 <div class="caption">
-    Posing with the absurdly sized check.
+    The desktop everything is running on
 </div>
 
 And now I have the perfect base for moving onto more interesting stuff. Perhaps in the future I'll upgrade the ram, but with it starting with 20GB, that should be more than plenty start working on future ventures like a docker network for pentesting practice, or setting up some VMs.

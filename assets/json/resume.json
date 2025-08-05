@@ -76,6 +76,13 @@
       "issuer": "CompTIA",
       "url": "http://verify.CompTIA.org (use Q3S6MXPSZNVE1K3Y as code)" ,
       "icon": "fa-solid fa-tag"
+    },
+    { 
+      "name": "CompTIA CySA+",
+      "date": "2025-08",
+      "issuer": "CompTIA",
+      "url": "http://verify.CompTIA.org (use ZKZ0SG3S9FB4KG82 as code)" ,
+      "icon": "fa-solid fa-tag"
     }
   ],
   "skills": [
