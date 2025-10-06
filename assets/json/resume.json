@@ -3,7 +3,7 @@
     "name": "David Ripley",
     "label": "CS major",
     "image": "",
-    "email": "Dripley404@Gmail.com",
+    "email": "CyberDiver404@proton.me",
     "phone": "404-909-2770",
     "url": "https://sirripster.github.io/",
     "summary": "A Georgia born CS major who has a deep interest in cyber security, 3d-printing, and painting",
@@ -31,6 +31,15 @@
       "endDate": "2025-3",
       "summary": "I work to maintain and enhance the user experience by beta testing new features, search for bugs, and support my co-workers on their projects",
       "highlights": ["UI and UX Testing", "User Stories", "Self-Management"]
+    },
+    {
+      "name": "Kennesaw State University UTIS",
+      "position": "Cyber Sec | intellegence and Response",
+      "url": "",
+      "startDate": "2025-09",
+      "endDate": "Current",
+      "summary": " Support KSU in it's endeavor to secure accounts, prevent fraud, protect assets, and support senior staff",
+      "highlights": ["Burp Suite", "Microsoft Defender", "Splunk"]
     }
   ],
   "education": [
