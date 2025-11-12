@@ -24,22 +24,33 @@
   },
   "work": [
     {
+      "name": "Group Seven Consulting",
+      "position": "Business Analysis",
+      "url": "https://www.g7consulting.com/",
+      "startDate": "2023-05",
+      "endDate": "2023-08",
+      "summary": "Group Seven Consulting is a niche consulting firm that specializes in helping clients implement, modify, and sustain third party software services like Oracle Field Service (OFS) Cloud.",
+      "highlights": ["JAMA", "User Stories", "Self-Management","Excel", "user acceptance test (UAT)"]
+    },
+    
+    {
       "name": "FIXD automotives",
       "position": "Quality Assurance Tester",
       "url": "https://FIXD.com",
       "startDate": "2024-06",
       "endDate": "2025-3",
-      "summary": "I work to maintain and enhance the user experience by beta testing new features, search for bugs, and support my co-workers on their projects",
+      "summary": "I work to maintain and enhance the user experience by beta testing new features, search for bugs, and supporting my co-workers on their projects",
       "highlights": ["UI and UX Testing", "User Stories", "Self-Management"]
     },
+
     {
       "name": "Kennesaw State University UTIS",
       "position": "Cyber Sec | intellegence and Response",
-      "url": "",
+      "url": "https://campus.kennesaw.edu/offices-services/uits/index.php",
       "startDate": "2025-09",
       "endDate": "Current",
-      "summary": " Support KSU in it's endeavor to secure accounts, prevent fraud, protect assets, and support senior staff",
-      "highlights": ["Burp Suite", "Microsoft Defender", "Splunk"]
+      "summary": "Support KSU in it's endeavor to secure accounts, prevent fraud, protect assets, and aid senior staff",
+      "highlights": ["Burp Suite", "Microsoft Defender", "Splunk", "PhishER"]
     }
   ],
   "education": [
@@ -51,7 +62,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2022-08",
       "endDate": "2026-05",
-      "score": "N/A",
+      "score": "3.08 GPA",
       "courses": ["Concentration in Cyber Security","ISSA Club President","Study Abroad in South Korea"] 
     }
   ],
@@ -143,9 +154,9 @@
   ],
    "references": [
     {
-      "name": "N/A",
+      "name": "Thomas Buttersworth",
       "icon": "fa-solid fa-laptop",
-      "reference": "N/A"
+      "reference": "tbutter4@kennesaw.edu"
     }
   ]
 }
