@@ -48,9 +48,18 @@
       "position": "Cyber Sec | intelligence and Response",
       "url": "https://campus.kennesaw.edu/offices-services/uits/index.php",
       "startDate": "2025-09",
-      "endDate": "Current",
+      "endDate": "2026-05",
       "summary": "Support KSU in it's endeavor to secure accounts, prevent fraud, protect assets, and aid senior staff",
       "highlights": ["Burp Suite", "Microsoft Defender", "Splunk", "PhishER"]
+    },
+    {
+      "name": "Georgia Tech Research Institute",
+      "position": "GRC analyst",
+      "url": "https://gtri.gatech.edu/",
+      "startDate": "2026-05",
+      "endDate": "Current",
+      "summary": "Support GTRI efforts in CMMC 2 certification, firewall deviation requests, supporting lab in maintain security posture, and supporting the continuous work on policies",
+      "highlights": ["Onspring", "Microsoft Excel", "Splunk", "OSINT"]
     }
   ],
   "education": [
