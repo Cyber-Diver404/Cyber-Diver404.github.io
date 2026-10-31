@@ -24,6 +24,16 @@
   },
   "work": [
     {
+      "name": "The Select",
+      "position": "Bartender",
+      "url": "https://www.g7consulting.com/",
+      "startDate": "2021-12",
+      "endDate": "2026-03",
+      "summary": "Worked in a high energy environment balancing customer experience, inventory management, and creating cocktails",
+      "highlights": [ "Customer Service", "Self-Management"]
+    },
+    
+    {
       "name": "Group Seven Consulting",
       "position": "Business Analysis",
       "url": "https://www.g7consulting.com/",
@@ -71,7 +81,7 @@
       "studyType": "Bachelor of Science",
       "startDate": "2022-08",
       "endDate": "2026-05",
-      "score": "3.08 GPA",
+      "score": "3.18 GPA",
       "courses": ["Concentration in Cyber Security","ISSA Club President","Study Abroad in South Korea"] 
     }
   ],
@@ -82,6 +92,13 @@
       "awarder": "Boy Scouts of America",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The highest rank in Boy Scouts, that illustrates their ability in leadership, communication, and service."
+    },
+    {
+      "title": "NCL 1st in the State of Georgia",
+      "date": "2025-10",
+      "awarder": "National Cyber League",
+      "url": "https://campus.kennesaw.edu/colleges-departments/coles/news/stories/2026-03-02-national-cyber-league-rankings.php",
+      "summary": "Placed first in Georgia for the National Cyber League competition, and 15th national for the team games"
     },
     {
       "title": "The Future of Payments Contest Winner",
