@@ -60,6 +60,11 @@ ninja.data = [{
           description: "Coverting a old 2012 mac mini into a home media server",
           section: "Projects",handler: () => {
               window.location.href = "/projects/UbuntuMedia/";
+            },},{id: "projects-automating-discord-bot-with-n8n",
+          title: 'Automating Discord Bot with n8n',
+          description: "Created a news bot using my local n8n install on my home server",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/n8nDiscordAutomation/";
             },},{
         id: 'social-email',
         title: 'email',
